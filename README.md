@@ -24,7 +24,7 @@ Para el procesamiento de imágenes y reconocimiento de señas se utilizará **YO
 
 ## Ejemplo de interfaz de usuario
 
-![Ejemplo de detección de señas](https://via.placeholder.com/600x300)
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*InvteOckEHLxoz_LNSlVKg.png">
 
 > La imagen muestra cómo el sistema puede detectar y reconocer diferentes señas en tiempo real.
 
