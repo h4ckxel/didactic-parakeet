@@ -1,2 +1,44 @@
-# didactic-parakeet
-El presente proyecto tiene como objetivo comunicarnos con las personas sordas-mudas, dicha comunicación será como una platica entre dos personas con dicha capacidad diferente. Se tiene pensado que la aplicación pueda recibir audios o palabras para después traducirla al lenguaje de señas. De igual manera puede recibir el lenguaje de señas como entrada para traducirlo a audio u oraciones. Dicha aplicación puede ser para mantener una simple charla con alguien que se comunique mediante lengua de señas; o bien para que estas personas puedan tomar clases, ir a conferencias o comprar en los establecimientos que ellos deseen.
+# Proyecto de Comunicación con Personas Sordomudas
+
+## Objetivo
+
+Este proyecto tiene como finalidad facilitar la comunicación con personas sordomudas, permitiendo una conversación fluida y natural entre individuos con diferentes capacidades de comunicación.
+
+## Descripción
+
+La aplicación permitirá:
+- **Reconocimiento de voz y texto:** Convertirá audios o palabras en lenguaje de señas.
+- **Reconocimiento de señas:** Usará una cámara para interpretar el lenguaje de señas y convertirlo en texto o audio.
+
+Este sistema será útil para interacciones cotidianas, como conversaciones informales, acceso a conferencias, clases y compras en establecimientos comerciales.
+
+## Tecnología Utilizada
+
+Para el procesamiento de imágenes y reconocimiento de señas se utilizará **YOLOv8**, una arquitectura avanzada de detección de objetos en tiempo real. Gracias a su precisión y rapidez, será posible interpretar el lenguaje de señas con alta eficiencia.
+
+### Ejemplo de flujo de trabajo con YOLOv8
+
+1. **Entrada:** Una cámara capta los gestos de la persona.
+2. **Procesamiento:** YOLOv8 identifica la seña en tiempo real.
+3. **Salida:** Se genera un texto o un audio con la interpretación de la seña.
+
+## Ejemplo de interfaz de usuario
+
+![Ejemplo de detección de señas](https://via.placeholder.com/600x300)
+
+> La imagen muestra cómo el sistema puede detectar y reconocer diferentes señas en tiempo real.
+
+## Aplicaciones y Beneficios
+
+- Facilita la comunicación entre personas sordomudas y oyentes.
+- Mejora la accesibilidad en distintos entornos como educación, comercio y salud.
+- Permite una integración más inclusiva en la sociedad.
+
+## Próximos Pasos
+
+- Desarrollo del modelo de reconocimiento basado en YOLOv8.
+- Entrenamiento del modelo con un dataset específico de lenguaje de señas.
+- Implementación de una interfaz amigable para los usuarios.
+
+📌 **Este proyecto busca eliminar barreras y acercar la tecnología a la accesibilidad para todos.**
+
