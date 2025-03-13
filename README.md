@@ -22,11 +22,16 @@ Para el procesamiento de imágenes y reconocimiento de señas se utilizará **YO
 2. **Procesamiento:** YOLOv8 identifica la seña en tiempo real.
 3. **Salida:** Se genera un texto o un audio con la interpretación de la seña.
 
+<div align="center">
+  
 ## Ejemplo de interfaz de usuario
 
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*9v_qQryoXF-WMwONfgE5Mw.gif">
 
-> La imagen muestra cómo el sistema puede detectar y reconocer diferentes señas en tiempo real.
+<img src="https://miro.medium.com/v2/resize:fit:600/1*e_7bN4nfREd0KGai-eQzGQ.gif" width=40%>
+
+##### La imagen muestra cómo el sistema puede detectar y reconocer diferentes señas en tiempo real.
+
+</div>
 
 ## Aplicaciones y Beneficios
 
