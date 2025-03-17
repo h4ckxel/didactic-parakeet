@@ -8,7 +8,7 @@ if not os.path.exists(DATA_DIR):
     os.makedirs(DATA_DIR)
 
 number_of_classes = 26
-dataset_size = 26
+dataset_size = 100
 
 cap = cv2.VideoCapture(0)
 cap.set(cv2.CAP_PROP_FPS, 60) # Se forza la cámara a 30 FPS
