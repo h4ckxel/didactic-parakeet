@@ -16,7 +16,7 @@ Este sistema será útil para interacciones cotidianas, como conversaciones info
 
 Para el procesamiento de imágenes y reconocimiento de señas se utilizará **YOLOv8**, una arquitectura avanzada de detección de objetos en tiempo real. Gracias a su precisión y rapidez, será posible interpretar el lenguaje de señas con alta eficiencia.
 
-### Ejemplo de flujo de trabajo con YOLOv8
+### Ejemplo de flujo de trabajo con Mediapipe
 
 1. **Entrada:** Una cámara capta los gestos de la persona.
 2. **Procesamiento:** Mediapipe identifica la seña en tiempo real.
