@@ -19,7 +19,7 @@ Para el procesamiento de imágenes y reconocimiento de señas se utilizará **YO
 ### Ejemplo de flujo de trabajo con YOLOv8
 
 1. **Entrada:** Una cámara capta los gestos de la persona.
-2. **Procesamiento:** YOLOv8 identifica la seña en tiempo real.
+2. **Procesamiento:** Mediapipe identifica la seña en tiempo real.
 3. **Salida:** Se genera un texto o un audio con la interpretación de la seña.
 
 <div align="center">
@@ -41,7 +41,7 @@ Para el procesamiento de imágenes y reconocimiento de señas se utilizará **YO
 
 ## Próximos Pasos
 
-- Desarrollo del modelo de reconocimiento basado en YOLOv8.
+- Desarrollo del modelo de reconocimiento basado en Mediapipe.
 - Entrenamiento del modelo con un dataset específico de lenguaje de señas.
 - Implementación de una interfaz amigable para los usuarios.
 
